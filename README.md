@@ -46,3 +46,6 @@ After re-running the attack, the system successfully triggered an alert when 3 f
 <br>
 ![image alt](https://github.com/kyradz/Brute-Force-Detection-Rule-Wazuh-/blob/ca0a0d40fc8d69487ef638d11abd3ca715da02be/Windows%20auth%20brute%20force%20attack.png)
 ![image alt](https://github.com/kyradz/Brute-Force-Detection-Rule-Wazuh-/blob/ca0a0d40fc8d69487ef638d11abd3ca715da02be/Threat%20Hunting%20Event.png)
+
+# Notes
+Logs did not include source IP, limiting correlation capabilities
